@@ -290,8 +290,8 @@ body {
     background-size: 100%;
     background-position: center;
   }
-  .project-image {
-    margin-right: 10px;
+  .project-text {
+    margin-left: 10px;
   }
   .projects-slide {
     align-items: center;
